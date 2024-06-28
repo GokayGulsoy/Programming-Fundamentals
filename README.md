@@ -18,6 +18,4 @@
 14. Single Responsibility, Open-Closed, Interface Segregation Principles
 15. Final Exam 
 
-Textbooks can be found on: [Course textbooks 1](/Textbook1)
-
-Textbooks can be found on: [Course textbook 2](/Textbook2)
+Textbooks can be found on: [Course textbooks 1](/Textbooks/textbook.pdf)
